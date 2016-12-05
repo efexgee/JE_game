@@ -1,5 +1,5 @@
 # JE_game
-2016 Efexgee
+(c) 2016 FXG
 
 Calculate outcome distribution for a novel card game
 
