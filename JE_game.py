@@ -8,10 +8,10 @@ SUITS = (4, 6, 8, 10, 12, 14)
 
 #What fraction of a suit's cards need to be dealt for the suit to win
 #Fractions are rounded up, so read as "at least WIN_RATIO"
-WIN_RATIO = 1 / 3
+WIN_RATIO = 1 / 2
 
 #How many hands to play (should really be a command-line argument)
-HANDS = 10000
+HANDS = 1000000
 
 #Initialize some variables
 winner = None
